@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ThirdPartApiIntegrationInSpringBootApplication<ThirdPartAPIIntegrationInSpringBoot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.thirdpartapiintegrationinspringboot.ThirdPartApiIntegrationInSpringBootApplication",
+            "projectName": "ThirdPartAPIIntegrationInSpringBoot",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
